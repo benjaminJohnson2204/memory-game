@@ -16,8 +16,8 @@ pygame.display.set_caption("Memory Game")
 clock = pygame.time.Clock()
 success_message = pygame.image.load('Success Message.png')
 
-board_x = 2
-board_y = 2
+board_x = 5
+board_y = 5
 frames_per_second = 10
 
 #         R    G    B
